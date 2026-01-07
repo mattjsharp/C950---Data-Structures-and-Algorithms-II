@@ -7,4 +7,4 @@ heuristic to solve it.
 One of the requirements states that a user defined hash table must be created. However, I decided to use
 that table as the primary data sctucture.
 
-This project has no pip dependencies external packages. Simple run `python3 main.py` to execute the program.
+This project has no pip dependencies or external packages. Simply run `python3 main.py` to execute the program.
